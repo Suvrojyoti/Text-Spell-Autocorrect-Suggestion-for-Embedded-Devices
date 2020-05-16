@@ -1,0 +1,16 @@
+Files Included:
+initbk: initializes the space in secondary for the bktree
+bktreeconstruct: constructs the bktree
+bktreequery: displays autocorrect suggestions for bk tree
+
+
+first run initbk.cpp once
+then bktreeconstruct.cpp once
+
+Once both the files are compiled run bktreequery.cpp
+
+
+
+### the initbk file is for current dictionary only, if the dictionary is being changed , the values in initbk should be changed accordingly.
+
+
